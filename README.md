@@ -35,15 +35,16 @@ Inside of this Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   ├── AppFooter.astro
-│   │   ├── AppHeader.astro
-│   │   ├── CriticalCSS.astro
-│   │   ├── ExternalFonts.astro
-│   │   ├── FavIcon.astro
-│   │   ├── FooterScripts.astro
-│   │   ├── HeaderScripts.astro
-│   │   ├── MetaOg.astro
-│   │   └── MetaTwitter.astro
+│   │   └── app/
+│   │       ├── AppFooter.astro
+│   │       ├── AppHeader.astro
+│   │       ├── CriticalCSS.astro
+│   │       ├── ExternalFonts.astro
+│   │       ├── FavIcon.astro
+│   │       ├── FooterScripts.astro
+│   │       ├── HeaderScripts.astro
+│   │       ├── MetaOg.astro
+│   │       └── MetaTwitter.astro
 │   ├── content/
 │   │   └── config.ts
 │   ├── data/
