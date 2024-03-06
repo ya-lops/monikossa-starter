@@ -1,7 +1,11 @@
 # Starter project template by [monikossa](https://discordapp.com/users/monikossa)
 
 ```sh
-yarn create astro@latest -- --template ya-lops/monikossa-starter
+yarn create astro --template ya-lops/monikossa-starter
+
+or
+
+npm create astro@latest -- --template ya-lops/monikossa-starter
 ```
 
 ## 🧞 Integrations
